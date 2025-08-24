@@ -6,5 +6,6 @@ public class Test : MonoBehaviour
     {
         Debug.Log("Hello, World!");
         Debug.Log("Hello, Unity!");
+        Debug.Log("HOHO");
     }
 }
